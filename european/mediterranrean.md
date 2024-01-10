@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## European
+## European --> Mediterranrean
 ---
 Select a specific European food:
 ## [Tanoreen](https://tanoreen.com/)
